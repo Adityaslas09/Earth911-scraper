@@ -1,0 +1,13 @@
+# Core dependencies
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Development dependencies
+pytest==7.4.3
+flake8==6.1.0
+black==23.11.0
+
+# Build dependencies
+build==1.0.3
+setuptools==69.0.2
+wheel==0.42.0
